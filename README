@@ -1,0 +1,25 @@
+
+    xillatags
+
+
+        Simple lightweight PHP tag library for generating HTML pages programatically.
+
+        Indented code structure matches structure of the html.
+
+        Functional lisp-flavored, highly nested programming idiom rather than object-oriented?
+
+        Automatically close tags, while maintaining readable PHP code. 
+
+
+    licence
+
+        BSD
+
+
+    contact
+
+        e : justgord at gmail dot com
+
+        b : quantblog.wordpress.com
+
+        w : treeblurb.com
